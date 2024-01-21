@@ -13,6 +13,22 @@ How can we predict taxi fares and whether a customer will leave a tip ahead of r
 
 Build, evaluate, and choose a predictive model that predicts taxi fares ahead of rides and another model that predicts whether a customer will leave a tip.
 
+### The Dataset
+
+- **Time Period:** 2017
+- **Rows:** 22,699
+- **Columns:** 18
+
+<table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
+  <tr style="margin: 0; padding: 0;">
+    <td style="margin: 0; padding: 0; border: none; align: left;">
+      <img src="Automatidata Dataset Variables.png" alt="Dataset Variables" width="600" height="450" style="width:4000px;margin: 0; padding: 0; display: block;"/>
+    </td>
+  </tr>
+</table>
+
+[Link to Dataset](https://data.cityofnewyork.us/Transportation/2017-Yellow-Taxi-Trip-Data/biws-g3hs)
+
 ### Analysis Plan
 
 1. Import necessary libraries/modules
