@@ -22,7 +22,7 @@ Build, evaluate, and choose a predictive model that predicts taxi fares ahead of
 <table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0;">
   <tr style="margin: 0; padding: 0;">
     <td style="margin: 0; padding: 0; border: none; align: left;">
-      <img src="Automatidata Dataset Variables.png" alt="Dataset Variables" width="600" height="600" style="width:4000px;margin: 0; padding: 0; display: block;"/>
+      <img src="Automatidata Dataset Variables.png" alt="Dataset Variables" width="600" height="800" style="width:4000px;margin: 0; padding: 0; display: block;"/>
     </td>
   </tr>
 </table>
