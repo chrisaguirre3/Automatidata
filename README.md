@@ -32,8 +32,8 @@ Build, evaluate, and choose a predictive model that predicts taxi fares ahead of
 
 ### Repository Files
 
-[Initial EDA](1.%20initial_eda.ipynb)
-[Data Cleaning, Wrangling, Feature Engineering, and EDA](2.%20data_cleaning_eda_visualizations.ipynb)
-[A/B Test](3.%20AB_test.ipynb)
-[Multiple Linear Regression Model](4.%20multiple_linear_regression.ipynb)
-[Feature Engineering and Machine Learning Models](5.%20feature_engineering_machine_learning.ipynb)
+- [Initial EDA](1.%20initial_eda.ipynb)
+- [Data Cleaning, Wrangling, Feature Engineering, and EDA](2.%20data_cleaning_eda_visualizations.ipynb)
+- [A/B Test](3.%20AB_test.ipynb)
+- [Multiple Linear Regression Model](4.%20multiple_linear_regression.ipynb)
+- [Feature Engineering and Machine Learning Models](5.%20feature_engineering_machine_learning.ipynb)
